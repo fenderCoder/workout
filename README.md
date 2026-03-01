@@ -48,6 +48,7 @@ This project is a work in progress. Planned improvements include:
 - [ ] Weekly history log — track which days were completed over past weeks
 - [ ] Print-friendly view
 - [ ] Dark/light theme toggle
+- [ ] Add Tai Chi forms as options
 
 ## License
 
