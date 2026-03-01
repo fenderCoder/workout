@@ -6,7 +6,7 @@ A personal, interactive weekly workout planner built as a static site hosted on 
 
 A single-page web app for tracking a 7-day balanced home workout routine. The plan prioritizes core strength, mobility, functional strength, cardiovascular health, and arm size — with consideration for lower back and hip flexibility.
 
-**Live site:** `https://yourusername.github.io/your-repo-name/`
+**Live site:** `https://fendercoder.github.io/workout/`
 
 ## Features
 
