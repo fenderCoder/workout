@@ -1,4 +1,4 @@
-# Weekly Home Workout v2
+# Weekly Home Workout
 
 A personal, interactive weekly workout planner built as a static site hosted on GitHub Pages.
 
